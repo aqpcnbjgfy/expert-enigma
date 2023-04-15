@@ -2,6 +2,7 @@
 import bpy
 inport time
 wm = bpy.context.window_manager
+
 kc = wm.keyconfigs.new('3dsmax')
 
 # Map Window
